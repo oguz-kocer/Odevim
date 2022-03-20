@@ -5,7 +5,32 @@
       "ProjectGuid": "517398d0-33ec-4536-9547-4b625eb86a20",
       "DisplayName": "Project.AdventureWorks2014.DataAccess",
       "ColorIndex": 0
+    },
+    "070b1776-abfd-433a-9189-71e94441ed2e": {
+      "ProjectGuid": "070b1776-abfd-433a-9189-71e94441ed2e",
+      "DisplayName": "Project.AdventureWorks2014.MVCWebUI",
+      "ColorIndex": 1
+    },
+    "2070c6eb-43b0-49c4-afb0-dc7763d58a76": {
+      "ProjectGuid": "2070c6eb-43b0-49c4-afb0-dc7763d58a76",
+      "DisplayName": "Project.Core",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7bf7ecd8-fb23-48d8-a2cb-8ec065963880": {
+      "ProjectGuid": "7bf7ecd8-fb23-48d8-a2cb-8ec065963880",
+      "DisplayName": "Project.AdventureWorks2014.Business",
+      "ColorIndex": 3
+    },
+    "d0cf9bcb-3609-44f3-8917-4c5f9249629f": {
+      "ProjectGuid": "d0cf9bcb-3609-44f3-8917-4c5f9249629f",
+      "DisplayName": "Project.AdventureWorks2014.Entities",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }

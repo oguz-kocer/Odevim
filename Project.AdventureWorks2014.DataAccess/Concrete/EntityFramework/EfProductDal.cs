@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Project.AdventureWorks2014.DataAccess.Concrete.EntityFramework
 {
-	public class EfProductDal:EfEntityRepositoryBase<Product,AdventureWorks2014Context>,IProductDal
+	public class EfProductDal : EfEntityRepositoryBase<Product, AdventureWorks2014Context>,IProductDal
 	{
 
 	}

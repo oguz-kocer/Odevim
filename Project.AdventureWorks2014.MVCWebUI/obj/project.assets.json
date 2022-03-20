@@ -1476,6 +1476,69 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Project.AdventureWorks2014.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3",
+          "Project.AdventureWorks2014.DataAccess": "1.0.0",
+          "Project.AdventureWorks2014.Entities": "1.0.0",
+          "Project.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Project.AdventureWorks2014.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project.AdventureWorks2014.Business.dll": {}
+        }
+      },
+      "Project.AdventureWorks2014.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3",
+          "Project.AdventureWorks2014.Entities": "1.0.0",
+          "Project.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Project.AdventureWorks2014.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project.AdventureWorks2014.DataAccess.dll": {}
+        }
+      },
+      "Project.AdventureWorks2014.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3",
+          "Project.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Project.AdventureWorks2014.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project.AdventureWorks2014.Entities.dll": {}
+        }
+      },
+      "Project.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "Microsoft.EntityFrameworkCore": "6.0.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.3"
+        },
+        "compile": {
+          "bin/placeholder/Project.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Project.Core.dll": {}
+        }
       }
     }
   },
@@ -5157,12 +5220,35 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Project.AdventureWorks2014.Business/1.0.0": {
+      "type": "project",
+      "path": "../Project.AdventureWorks2014.Business/Project.AdventureWorks2014.Business.csproj",
+      "msbuildProject": "../Project.AdventureWorks2014.Business/Project.AdventureWorks2014.Business.csproj"
+    },
+    "Project.AdventureWorks2014.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Project.AdventureWorks2014.DataAccess/Project.AdventureWorks2014.DataAccess.csproj",
+      "msbuildProject": "../Project.AdventureWorks2014.DataAccess/Project.AdventureWorks2014.DataAccess.csproj"
+    },
+    "Project.AdventureWorks2014.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Proje.AdventureWorks2014.Entities/Project.AdventureWorks2014.Entities.csproj",
+      "msbuildProject": "../Proje.AdventureWorks2014.Entities/Project.AdventureWorks2014.Entities.csproj"
+    },
+    "Project.Core/1.0.0": {
+      "type": "project",
+      "path": "../Project.Core/Project.Core.csproj",
+      "msbuildProject": "../Project.Core/Project.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
+      "Project.AdventureWorks2014.Business >= 1.0.0",
+      "Project.AdventureWorks2014.Entities >= 1.0.0",
+      "Project.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5196,7 +5282,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\oguzk\\source\\repos\\Proje\\Proje.AdventureWorks2014.Entities\\Project.AdventureWorks2014.Entities.csproj": {
+              "projectPath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Proje.AdventureWorks2014.Entities\\Project.AdventureWorks2014.Entities.csproj"
+            },
+            "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.AdventureWorks2014.Business\\Project.AdventureWorks2014.Business.csproj": {
+              "projectPath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.AdventureWorks2014.Business\\Project.AdventureWorks2014.Business.csproj"
+            },
+            "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.Core\\Project.Core.csproj": {
+              "projectPath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.Core\\Project.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

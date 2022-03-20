@@ -1,22 +1,29 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Project.AdventureWorks2014.Business.Abstract;
 using Project.AdventureWorks2014.MVCWebUI.Models;
 using System.Diagnostics;
 
 namespace Project.AdventureWorks2014.MVCWebUI.Controllers
 {
-    public class HomeController : Controller
+    public class ProductController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+		private IProductService _productService;
+        private readonly ILogger<ProductController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public ProductController(ILogger<ProductController> logger)
         {
             _logger = logger;
         }
 
         public IActionResult Index()
         {
-            return View();
-        }
+            var product = _productService.GetAll();
+            ProductListViewModel model = new ProductListViewModel
+            {
+                Products = product,
+            };
+            return View(model);
+        } 
 
         public IActionResult Privacy()
         {

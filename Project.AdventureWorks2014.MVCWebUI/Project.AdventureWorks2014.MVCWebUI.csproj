@@ -11,4 +11,10 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Proje.AdventureWorks2014.Entities\Project.AdventureWorks2014.Entities.csproj" />
+    <ProjectReference Include="..\Project.AdventureWorks2014.Business\Project.AdventureWorks2014.Business.csproj" />
+    <ProjectReference Include="..\Project.Core\Project.Core.csproj" />
+  </ItemGroup>
+
 </Project>

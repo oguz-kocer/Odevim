@@ -1,8 +1,27 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@model Project.AdventureWorks2014.MVCWebUI.Models.ProductListViewModel
+
+@{
+    Layout = null;
+}
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <table>
+        <tr>
+            <td>Ürün İsmi</td>
+            <td>Ürünün Birim Fiyatı</td>
+        </tr>
+        @foreach(var product in Model.Products)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.ListPrice</td>
+            </tr>
+        }
+    </table>
 </div>

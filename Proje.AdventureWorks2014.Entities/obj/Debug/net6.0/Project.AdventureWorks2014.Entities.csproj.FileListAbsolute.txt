@@ -1,0 +1,15 @@
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\bin\Debug\net6.0\Project.AdventureWorks2014.Entities.deps.json
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\bin\Debug\net6.0\Project.AdventureWorks2014.Entities.dll
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\bin\Debug\net6.0\ref\Project.AdventureWorks2014.Entities.dll
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\bin\Debug\net6.0\Project.AdventureWorks2014.Entities.pdb
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\bin\Debug\net6.0\Project.Core.dll
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.csproj.AssemblyReference.cache
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.AssemblyInfoInputs.cache
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.AssemblyInfo.cs
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.csproj.CoreCompileInputs.cache
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.csproj.CopyComplete
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.dll
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\ref\Project.AdventureWorks2014.Entities.dll
+C:\Users\oguzk\source\repos\Proje\Proje.AdventureWorks2014.Entities\obj\Debug\net6.0\Project.AdventureWorks2014.Entities.pdb

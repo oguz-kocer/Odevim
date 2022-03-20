@@ -9,5 +9,6 @@ namespace Project.AdventureWorks2014.Entities.Concrete
 		public int ProductSubcategoryID { get; set; }
 		public decimal ListPrice { get; set; }
 		public short SafetyStockLevel { get; set; }
+		public int CategoryId { get; set; }
 	}
 }

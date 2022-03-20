@@ -25,7 +25,7 @@ namespace Project.AdventureWorks2014.Business.Concrete
 
 		public void Delete(int productId)
 		{
-			_productDal.Delete(productId);
+			_productDal.Delete(new Product { ProductID=productId});
 		}
 
 		public List<Product> GetAll()
@@ -35,7 +35,7 @@ namespace Project.AdventureWorks2014.Business.Concrete
 
 		public List<Product> GetByCategory(int categoryId)
 		{
-			throw new NotImplementedException();
+			return _productDal.GetList(p => p.CategoryId == categoryId);
 		}
 
 		public void Update(Product product)

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Project.AdventureWorks2014.DataAccess.Concrete.EntityFramework
 {
-	public class AdvanturaWorks2014Context:DbContext
+	public class AdventureWorks2014Context:DbContext
 	{
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
