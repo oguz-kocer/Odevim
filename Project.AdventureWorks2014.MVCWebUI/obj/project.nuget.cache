@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9vbSRjNYiqHL8huNvmMYGAZc85TUeBNgS8LitRnMyG1AMsvNN293Bd4bzedxE6xMPAN6s/IhSZ2TlzuWLfk7Wg==",
+  "dgSpecHash": "TnM1S2z4hBJrSL263+HQdC7luyty+9ob3HKkOMOxjmMXBni0Py6oTZj8pL96CA4k8T+ypQcCIJ2LPiUuUxEiuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.AdventureWorks2014.MVCWebUI\\Project.AdventureWorks2014.MVCWebUI.csproj",
+  "projectFilePath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.AdventureWorks2014.MVCWebUI\\Project.AdventureWorks2014.MVCWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oguzk\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\oguzk\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

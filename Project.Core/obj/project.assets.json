@@ -5173,11 +5173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.Core\\Project.Core.csproj",
+      "projectUniqueName": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.Core\\Project.Core.csproj",
       "projectName": "Project.Core",
-      "projectPath": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.Core\\Project.Core.csproj",
+      "projectPath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.Core\\Project.Core.csproj",
       "packagesPath": "C:\\Users\\oguzk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.Core\\obj\\",
+      "outputPath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

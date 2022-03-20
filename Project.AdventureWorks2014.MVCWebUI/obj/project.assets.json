@@ -5172,11 +5172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.AdventureWorks2014.MVCWebUI\\Project.AdventureWorks2014.MVCWebUI.csproj",
+      "projectUniqueName": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.AdventureWorks2014.MVCWebUI\\Project.AdventureWorks2014.MVCWebUI.csproj",
       "projectName": "Project.AdventureWorks2014.MVCWebUI",
-      "projectPath": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.AdventureWorks2014.MVCWebUI\\Project.AdventureWorks2014.MVCWebUI.csproj",
+      "projectPath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.AdventureWorks2014.MVCWebUI\\Project.AdventureWorks2014.MVCWebUI.csproj",
       "packagesPath": "C:\\Users\\oguzk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.AdventureWorks2014.MVCWebUI\\obj\\",
+      "outputPath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.AdventureWorks2014.MVCWebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

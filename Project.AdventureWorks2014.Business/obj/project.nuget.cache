@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0bMxzq28+Zz/i9DFbnYk3euxHRZCEvRBwGaF8RyPLVc/2ThPNe186QEolq8XjDueZx+TaPju3El2KQ4c3M17qg==",
+  "dgSpecHash": "UmRUy3yZfv91aRSN5d30u+5AeWvyZ8CDElLULzp+D1r1t8KpCKqggcP4//uQyEQknWXRcZa2Te50NehhSPbaxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oguzk\\source\\repos\\Project\\Project.AdventureWorks2014.Business\\Project.AdventureWorks2014.Business.csproj",
+  "projectFilePath": "C:\\Users\\oguzk\\source\\repos\\Proje\\Project.AdventureWorks2014.Business\\Project.AdventureWorks2014.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oguzk\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\oguzk\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
