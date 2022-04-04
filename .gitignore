@@ -1,0 +1,14 @@
+
+Project.AdventureWorks2014.MVCWebUI/Startup.cs
+*.v2
+*.v1
+.vs/Project/v17/.suo
+Project.AdventureWorks2014.MVCWebUI/bin/Debug/net6.0/Project.AdventureWorks2014.MVCWebUI.dll
+Project.AdventureWorks2014.MVCWebUI/bin/Debug/net6.0/Project.AdventureWorks2014.MVCWebUI.pdb
+Project.AdventureWorks2014.MVCWebUI/bin/Debug/net6.0/ref/Project.AdventureWorks2014.MVCWebUI.dll
+Project.AdventureWorks2014.MVCWebUI/obj/Debug/net6.0/Project.AdventureWorks2014.MVCWebUI.csproj.AssemblyReference.cache
+Project.AdventureWorks2014.MVCWebUI/obj/Debug/net6.0/Project.AdventureWorks2014.MVCWebUI.csproj.CoreCompileInputs.cache
+Project.AdventureWorks2014.MVCWebUI/obj/Debug/net6.0/Project.AdventureWorks2014.MVCWebUI.dll
+Project.AdventureWorks2014.MVCWebUI/obj/Debug/net6.0/Project.AdventureWorks2014.MVCWebUI.pdb
+Project.AdventureWorks2014.MVCWebUI/obj/Debug/net6.0/ref/Project.AdventureWorks2014.MVCWebUI.dll
+Project.AdventureWorks2014.MVCWebUI/obj/staticwebassets.pack.sentinel
